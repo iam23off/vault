@@ -1,0 +1,33 @@
+{
+  "unseal_keys_b64": [
+    "JjumdxCqCDhk4RrbuTyWISVvlp6ArZuIHqRFeSeZVlXB",
+    "EigDDA/HO6qle4+Fop2TiGwnw9QqG9cX0xFOL3Sf9AEI",
+    "uPFzJ3rVhWraXuvabC5ZcT8CqBlGkiGCOkqrZn8JgKjm",
+    "hzEQLlash+iZxKSFQPzf885yW1qV8dFUbcRqqhDVscae",
+    "y+kf0OEhJUmhvVrAmX90ndRdlVlcyPWvS9FUGIiC28Qm",
+    "mbGOnPBa+RCEFtJgqhmyfVkUwRK1MvEffWJ0IjDqKJtB",
+    "GgbKxvHqRi7h0rZUUWMX/xM1UTZLUEdLCZlEAPpQM83Z",
+    "WxBCi5sO5A3Ekz0kA5pRolTmBDjsYjJyXM+6quERvrKT",
+    "ir9y5zIWLpjBJJ8dTCgdQRoSU1fMYgaiIrG7vX8KLg5x",
+    "rLtnZcweP0IouOizZqalhnkX1DT95lVldNt91by2GwFc"
+  ],
+  "unseal_keys_hex": [
+    "263ba67710aa083864e11adbb93c9621256f969e80ad9b881ea4457927995655c1",
+    "1228030c0fc73baaa57b8f85a29d93886c27c3d42a1bd717d3114e2f749ff40108",
+    "b8f173277ad5856ada5eebda6c2e59713f02a819469221823a4aab667f0980a8e6",
+    "8731102e56ac87e899c4a48540fcdff3ce725b5a95f1d1546dc46aaa10d5b1c69e",
+    "cbe91fd0e1212549a1bd5ac0997f749dd45d95595cc8f5af4bd154188882dbc426",
+    "99b18e9cf05af9108416d260aa19b27d5914c112b532f11f7d62742230ea289b41",
+    "1a06cac6f1ea462ee1d2b654516317ff133551364b50474b09994400fa5033cdd9",
+    "5b10428b9b0ee40dc4933d24039a51a254e60438ec6232725ccfbaaae111beb293",
+    "8abf72e732162e98c1249f1d4c281d411a125357cc6206a222b1bbbd7f0a2e0e71",
+    "acbb6765cc1e3f4228b8e8b366a6a5867917d434fde6556574db7dd5bcb61b015c"
+  ],
+  "unseal_shares": 10,
+  "unseal_threshold": 5,
+  "recovery_keys_b64": [],
+  "recovery_keys_hex": [],
+  "recovery_keys_shares": 5,
+  "recovery_keys_threshold": 3,
+  "root_token": "hvs.PKFnGeaoY61vpikuwV4c8LS3"
+}
