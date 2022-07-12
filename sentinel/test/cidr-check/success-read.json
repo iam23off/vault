@@ -1,0 +1,11 @@
+{
+  "global": {
+    "request": {
+      "connection": {
+        "remote_addr": "127.0.0.1"
+      },
+      "operation": "read",
+      "path": "secret/orders"
+    }
+  }
+}
